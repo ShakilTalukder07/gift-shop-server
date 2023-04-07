@@ -1,0 +1,119 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.6,
+            "badge": "Super"
+        },
+        "total_view": 48898,
+        "price": 189.99,
+        "title": "MERN Stack Development",
+        "image_url": "https://miro.medium.com/max/1400/1*k0SazfSJ-tPSBbt2WDYIyw.png",
+        "details": "MERN Stack is one of the most popular user-friendly Full Stack Web Development structures."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f1dj30je62h",
+        "category_id": "01",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 20388,
+        "price": 183.99,
+        "title": "Full Stack Web Developer - MEAN Stack",
+        "image_url": "https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/4952/mevn-cli.jpg",
+        "details": "Our Full Stack Developer course will allow you to learn how to create full-stack web applications using the front-end and back-end JavaScript technologies, which form the core of MEAN—MongoDB, ExpressJS and Node.js."
+    },
+    {
+        "_id": "02898uj98uj39uj30mnb3y7893gfr5",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Rising"
+        },
+        "total_view": 30808,
+        "price": 94.99,
+        "title": "Flutter App Development",
+        "image_url": "https://miro.medium.com/max/1400/1*n9ZdCQ2jrDR-cwSckKyzXw.png",
+        "details": "Flutter is the new Cross-platform Mobile Development Framework created by Google, allowing developers to build Android and iOS Apps with one single codebase!"
+    },
+    {
+        "_id": "0282e0e58a5c40456787654r7s3e794ri37s7d76",
+        "category_id": "02",
+        "rating": {
+            "number": 4.1,
+            "badge": "Excellent"
+        },
+        "total_view": 22488,
+        "price": 99.99,
+        "title": "Mobile App Development with Kotlin",
+        "image_url": "https://www.braintechnosys.com/blog/wp-content/uploads/2019/02/kotlin-Brain-Technosys.jpg",
+        "details": "Kotlin is a programming language which is available across platforms and statically typed with type inference. This course will equip you with the understanding required to develop mobile applications using Kotlin."
+    },
+    {
+        "_id": "02906f65r57g68jf7gd57900h67d65",
+        "category_id": "03",
+        "rating": {
+            "number": 4.9,
+            "badge": "Super Short"
+        },
+        "total_view": 99488,
+        "price": 89.99,
+        "title": "Complete Node JS",
+        "image_url": "https://www.bhavitra.com/frontendtheme/img/nodejs/node-image.png",
+        "details": "Learn Web Development online at your own pace. Start today and improve your skills."
+    },
+    {
+        "_id": "67yy3h67gr567yg5rr3567e3",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Rising"
+        },
+        "total_view": 23670,
+        "price": 69.99,
+        "title": "Complete MySQL Course",
+        "image_url": "https://bigdata-world.net/wp-content/uploads/2020/08/mysql_workbench-1.jpg",
+        "details": "MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel."
+    },
+    {
+        "_id": "67yg986e5e45f9n3rcp3bp6dr23",
+        "category_id": "04",
+        "rating": {
+            "number": 4.8,
+            "badge": "Super Short"
+        },
+        "total_view": 88488,
+        "price": 87.99,
+        "title": "MongoDB Certification Training Course",
+        "image_url": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+        "details": "Simple learn’s MongoDB certification equips you with the relevant skills required to become a MongoDB Developer. The highly-qualified instructors for this MongoDB course help you understand why more businesses are using MongoDB development services to handle their increasing data storage and handling demands."
+    },
+    {
+        "_id": "67yy3h67gr567yg5rr3567e33",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Rising"
+        },
+        "total_view": 23670,
+        "price": 69.99,
+        "title": "AI Development",
+        "image_url": "https://www.devteam.space/wp-content/uploads/2019/08/AI-Development-lifecycle.jpg",
+        "details": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans."
+    },
+    {
+        "_id": "67yg986e5e45f9n3rcp3bp6dr43",
+        "category_id": "06",
+        "rating": {
+            "number": 4.8,
+            "badge": "Super Short"
+        },
+        "total_view": 88488,
+        "price": 87.99,
+        "title": "Machine Learning",
+        "image_url": "https://www.freecodecamp.org/news/content/images/2022/08/A6125B75-DB79-4448-94C9-E6ABD3E0E3E9.jpeg",
+        "details": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks."
+    }
+]
